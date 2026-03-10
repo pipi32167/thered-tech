@@ -1,4 +1,4 @@
-# WT-100 立体印刷术（Stereotype）
+# WT-246 立体印刷术（Stereotype）
 
 ## 🏛️ 技术名称和领域
 **立体印刷术**（Stereotype）- 印刷与出版技术
