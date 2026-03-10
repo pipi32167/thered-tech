@@ -9,6 +9,10 @@ tags: [#index]
 
 > 欢迎来到枯萎技术的知识网络
 
+**🌐 GitHub 仓库**: [https://github.com/pipi32167/thered-tech](https://github.com/pipi32167/thered-tech)
+
+**🔄 更新频率**: 每 10 分钟自动添加新的枯萎技术探索
+
 ## 🎯 这个笔记盒的核心问题
 
 > **"被淘汰的技术中，是否隐藏着被我们遗忘的智慧？"**
