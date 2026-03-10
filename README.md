@@ -2,6 +2,16 @@
 
 > 一个用 Zettelkasten 方法组织的枯萎技术知识网络
 
+**🌐 GitHub**: [https://github.com/pipi32167/thered-tech](https://github.com/pipi32167/thered-tech)
+
+**🔄 自动更新**: 每 10 分钟探索一个新的枯萎技术
+
+---
+
+## 🎯 核心问题
+
+> **"被淘汰的技术中，是否隐藏着被我们遗忘的智慧？"**
+
 ## 🏛️ 关于这个笔记盒
 
 这个笔记盒使用卢曼的卡片盒笔记法（Zettelkasten Method）组织，专注于探索被淘汰、过时、失败的技术及其现代价值。
@@ -174,5 +184,30 @@ related: [[WT-XXX]]
 
 ---
 
+## 🚀 快速开始
+
+1. **从主索引开始**: [index/MAIN-INDEX.md](index/MAIN-INDEX.md)
+2. **阅读第一个探索**: [permanent/WT-001-water-clock.md](permanent/WT-001-water-clock.md) - 水钟
+3. **理解联系模式**: [structure/STRUCT-001-patterns.md](structure/STRUCT-001-patterns.md)
+4. **发现意外连接**: 跟随笔记间的 `[[链接]]`
+
+## 📊 当前统计
+
+- **永久笔记**: 1 则
+- **结构笔记**: 2 则
+- **覆盖领域**: 计时与测量
+- **时间跨度**: 约公元前 1500 年 - 至今
+
+## 🔗 在线访问
+
+这个笔记盒托管在 GitHub 上，你可以：
+- 📖 直接在网页上阅读
+- 🔄 定期查看自动更新的内容
+- 🍿 Clone 到本地探索
+- 💡 提出你想探索的枯萎技术
+
+---
+
 *创建日期: 2026-03-10*
 *笔记盒版本: 1.0*
+*自动更新: 是（每 10 分钟）*
