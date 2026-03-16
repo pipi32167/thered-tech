@@ -1,4 +1,4 @@
-# WT-185: 古希腊水力风琴
+# WT-096: 古希腊水力风琴
 
 ## 🏛️ 技术信息
 - **技术名称**：水力风琴（Hydraulis / Hydraulic Organ）
@@ -194,7 +194,6 @@
 ---
 
 ## 🔗 相关链接
-- [WT-96: 水力风琴](https://github.com/your-repo/withered-tech/blob/main/permanent/WT-096.md)（详细记录水力风琴技术）
 - [WT-62: 亚历山大水力自动机](https://github.com/your-repo/withered-tech/blob/main/permanent/WT-062.md)（同一工程师的其他发明）
 - [现代管风琴技术](https://www.organsociety.org/)
 
@@ -204,4 +203,4 @@
 - Michaelides, S.《The Water Organ in Ancient Greece》. 2020
 
 **创建时间**：2026-03-16
-**编号**：WT-185
+**编号**：WT-096
